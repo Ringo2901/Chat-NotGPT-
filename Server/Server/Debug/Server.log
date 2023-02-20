@@ -1,0 +1,5 @@
+﻿  MainServer.cpp
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\MainServer.cpp(44,8): warning C4101: msgs: неиспользованная локальная переменная
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\MainServer.cpp(194,20): warning C4018: <: несоответствие типов со знаком и без знака
+  MainServer.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Server.vcxproj -> C:\Users\nekit\OneDrive\Рабочий стол\Server\Debug\Server.exe

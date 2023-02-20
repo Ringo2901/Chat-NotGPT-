@@ -1,0 +1,4 @@
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\NewChat\x64\Debug\NewChat.vcxproj.AssemblyReference.cache
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\NewChat\x64\Debug\NewChat.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\NewChat\x64\Debug\NewChat.StartForm.resources
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\NewChat\x64\Debug\NewChat.vcxproj.GenerateResource.cache

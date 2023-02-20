@@ -1,0 +1,7 @@
+﻿  Auto.cpp
+  ChatForm.cpp
+  Создание кода...
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\NewChat\ChatForm.h(130): warning C4700: использована неинициализированная локальная переменная "msg_size"
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\NewChat\ChatForm.h(130): warning C4700: использована неинициализированная локальная переменная "msg_size"
+  Auto.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  NewChat.vcxproj -> C:\Users\nekit\OneDrive\Рабочий стол\NewChat\Debug\NewChat.exe

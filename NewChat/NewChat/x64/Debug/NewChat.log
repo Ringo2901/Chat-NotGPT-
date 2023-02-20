@@ -1,0 +1,8 @@
+﻿  Auto.cpp
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\NewChat\Auto.cpp(35,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\NewChat\Auto.cpp(42,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  StartForm.cpp
+  Создание кода...
+  Auto.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+StartForm.obj : error LNK2005: "unsigned __int64 Connection" (?Connection@@3_KA) уже определен в Auto.obj
+C:\Users\nekit\OneDrive\Рабочий стол\NewChat\x64\Debug\NewChat.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

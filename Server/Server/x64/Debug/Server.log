@@ -1,0 +1,7 @@
+﻿  MainServer.cpp
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\MainServer.cpp(122,88): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\MainServer.cpp(151,17): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\MainServer.cpp(154,33): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\MainServer.cpp(62): warning C4700: использована неинициализированная локальная переменная "msgs"
+  MainServer.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Server.vcxproj -> C:\Users\nekit\OneDrive\Рабочий стол\Server\x64\Debug\Server.exe

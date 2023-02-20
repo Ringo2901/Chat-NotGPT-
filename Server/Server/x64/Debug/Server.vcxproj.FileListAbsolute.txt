@@ -1,0 +1,4 @@
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\x64\Debug\Server.vcxproj.AssemblyReference.cache
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\x64\Debug\Server.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\x64\Debug\Server.MainServer.resources
+C:\Users\nekit\OneDrive\Рабочий стол\Server\Server\x64\Debug\Server.vcxproj.GenerateResource.cache
